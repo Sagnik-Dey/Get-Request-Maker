@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ``` 
 * Run the Application by
 ```bash
-    cd generated_code
-    python window.py
+cd generated_code
+python window.py
 ```
 
 #### Hope you enjoy
