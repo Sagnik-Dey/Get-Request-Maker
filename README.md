@@ -24,4 +24,4 @@ pip install -r requirements.txt
     python window.py
 ```
 
-#### Hope you enjo
+#### Hope you enjoy
